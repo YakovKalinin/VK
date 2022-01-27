@@ -5,6 +5,7 @@ public class Content {
     private String picture;
     private String link;
     private String articleID;
+    private boolean access;
 
     //getter+setter;
 
